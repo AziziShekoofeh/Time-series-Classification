@@ -9,7 +9,7 @@ In this project we aim to implement and compare different RNN implementaion incl
 ### Data and results
 Data could be any time-series data with binary label
 
-Reults presented in detailed at [1]: 
+Reults and methods are presented in detailed at [1]: 
 (https://ieeexplore.ieee.org/abstract/document/8395313/)
 
 
@@ -21,6 +21,8 @@ Using Python Keras library (Keras 2.x) with [Tensorflow] backend: (https://www.t
 
 
 
-##### Tips for Running on GPU
-#####    - export CUDA_VISIBLE_DEVICES="1"
-#####    - THEANO_FLAGS=device=gpu1,floatX=float64 python  trainmodel.py
+
+
+###### Tips for Running on GPU
+######    - export CUDA_VISIBLE_DEVICES="1"
+######    - THEANO_FLAGS=device=gpu1,floatX=float64 python  trainmodel.py
