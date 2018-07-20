@@ -1,7 +1,4 @@
 # TimeSeries_Classification
-Classification of Time-series data with RNN
-
-# TeUS_RNN
 
 ##### Time-Series binary classification using RNNs 
 ##### Shekoofeh Azizi
