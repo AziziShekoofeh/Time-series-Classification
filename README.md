@@ -1,5 +1,4 @@
 # TimeSeries_Classification
-
 ##### Time-Series binary classification using RNNs 
 ##### Shekoofeh Azizi
 
@@ -9,6 +8,7 @@ In this project we aim to implement and compare different RNN implementaion incl
 
 ### Data and results
 Data could be any time-series data with binary label
+
 Reults presented in detailed at [1]: 
 (https://ieeexplore.ieee.org/abstract/document/8395313/)
 
@@ -18,6 +18,8 @@ Using Python Keras library (Keras 2.x) with [Tensorflow] backend: (https://www.t
 
 
 [1] Azizi, Shekoofeh, et al. "Deep Recurrent Neural Networks for Prostate Cancer Detection: Analysis of Temporal Enhanced Ultrasound." IEEE transactions on medical imaging (2018).
+
+
 
 ##### Tips for Running on GPU
 #####    - export CUDA_VISIBLE_DEVICES="1"
