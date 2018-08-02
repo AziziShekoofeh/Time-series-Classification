@@ -19,8 +19,15 @@ Using Python Keras library (Keras 2.x) with [Tensorflow] backend: (https://www.t
 
 [1] Azizi, Shekoofeh, et al. "Deep Recurrent Neural Networks for Prostate Cancer Detection: Analysis of Temporal Enhanced Ultrasound." IEEE transactions on medical imaging (2018).
 
+If you are using this codes in any capicity please cite the above paper or:
 
-
+@article{azizi2018deep,
+  title={Deep Recurrent Neural Networks for Prostate Cancer Detection: Analysis of Temporal Enhanced Ultrasound},
+  author={Azizi, Shekoofeh and Bayat, Sharareh and Yan, Pingkun and Tahmasebi, Amir and Kwak, Jin Tae and Xu, Sheng and Turkbey, Baris and Choyke, Peter and Pinto, Peter and Wood, Bradford and others},
+  journal={IEEE transactions on medical imaging},
+  year={2018},
+  publisher={IEEE}
+}
 
 
 ###### Tips for Running on GPU
